@@ -2,7 +2,7 @@
 # Kotlin
 version_kotlin = "1.4.31"
 # Android Gradle Plugin
-version_android_gradle_plugin = "7.0.0-alpha12"
+version_android_gradle_plugin = "7.0.0-alpha14"
 # kotlinx.coroutines
 version_kotlinx_coroutines="1.4.2"
 # Jetpack
